@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="360" alt="Hacker coding animation"/>
+  <img src="https://github.com/user-attachments/assets/af86754b-c5e1-493d-94a8-04bbb6577ee0"
+       width="360"
+       alt="Hacker coding animation"/>
 </p>
 
 <h1 align="center">
