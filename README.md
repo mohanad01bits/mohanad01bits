@@ -7,7 +7,7 @@
 
 ## 📄 Resume
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](./cv/Mohanad_Mahmoud_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](Mohanad_Mahmoud_CV.pdf)
 
 ---
 
@@ -57,28 +57,6 @@ Database-driven platform simulating core LinkedIn functionality.
 
 **Technologies Used**
 
-- SQL Server
-- Database Schema Design
-- ERD Modeling
-- CRUD Operations
-- Stored Procedures
-- Agile Workflow
-
----
-
-## 📊 GitHub Stats
-
-![Mohanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanad01bits&show_icons=true&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-🔗 LinkedIn  
-https://linkedin.com/in/mohanad-mahmoud1  
-
-📧 Email  
-mohaned.mahmoued123@gmail.com
 - SQL Server
 - Database Schema Design
 - ERD Modeling
