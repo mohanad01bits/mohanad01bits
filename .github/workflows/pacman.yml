@@ -1,0 +1,23 @@
+name: Generate Pac-Man Contributions
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: mohanad01bits
+
+      - name: Commit and Push Graph
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Pac-Man contribution graph"
