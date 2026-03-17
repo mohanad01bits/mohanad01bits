@@ -1,6 +1,5 @@
-<!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="360"/>
+  <img src="https://media.tenor.com/5Sk6MxVj4t8AAAAC/tech-futuristic.gif" width="360"/>
 </p>
 
 <h1 align="center">
