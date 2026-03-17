@@ -1,25 +1,35 @@
-<!-- HEADER -->
+<!-- HERO HEADER -->
 
-<h1 align="center">Hi 👋 I'm Mohanad Mahmoud</h1>
+<h1 align="center">👋 Hi, I'm Mohanad Mahmoud</h1>
+
+<h3 align="center">
+💻 Fullstack .NET Developer | 🧠 Backend Engineer
+</h3>
 
 <p align="center">
-💻 <b>Fullstack .NET Developer</b><br>
 📍 Cairo, Egypt
 </p>
 
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
 
-<a href="Mohanad_Mahmoud_CV.pdf">
-<img src="https://img.shields.io/badge/Download%20CV-Portfolio-blueviolet?style=for-the-badge&logo=readme&logoColor=white"/>
-</a>
+🌍 <b>Portfolio</b>  
+🔗 https://wz7suyhfehx26.ok.kimi.link/
 
-<a href="https://linkedin.com/in/mohanad-mahmoud1">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+💼 <b>LinkedIn</b>  
+🔗 https://linkedin.com/in/mohanad-mahmoud1
 
-<a href="mailto:mohaned.mahmoued123@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📧 <b>Email</b>  
+✉ mohaned.mahmoued123@gmail.com
+
+📱 <b>Phone</b>  
+☎ +20XXXXXXXXXX
+
+📄 <b>Download CV</b>  
+📥 Mohanad_Mahmoud_CV.pdf
 
 </p>
 
@@ -29,38 +39,38 @@
 
 <table>
 <tr>
-
 <td width="50%">
 
-### 🚀 Developer Profile
+### 🚀 Developer Mindset
 
-Fullstack **.NET Developer** focused on building:
+I focus on building backend systems that are:
 
-✔ Reliable backend systems  
-✔ Scalable architectures  
-✔ Clean production-ready APIs  
+⚡ Reliable  
+📈 Scalable  
+🧩 Maintainable  
+🧠 Cleanly architected  
 
-Main expertise:
-
-**C# • .NET • ASP.NET Core • SQL Server**
+Turning **complex business logic** into  
+**clean production-ready software.**
 
 </td>
 
 <td width="50%">
 
-### 🎓 Current Program
+### 🎓 Currently Learning
 
-📚 **Digital Egypt Pioneers Initiative (DEPI)**
+Participant in the
 
-Improving skills in:
+**Digital Egypt Pioneers Initiative (DEPI)**
 
-• Backend Development  
-• API Architecture  
-• Software Design Patterns  
-• Modern .NET Ecosystem
+Improving my skills in:
+
+🧠 Modern .NET Development  
+🔗 API Architecture  
+🏗 Software Design Patterns  
+🗄 Database Engineering  
 
 </td>
-
 </tr>
 </table>
 
@@ -70,16 +80,19 @@ Improving skills in:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github" />
+<img src="https://skillicons.dev/icons?i=cs" height="55"/>
+<img src="https://skillicons.dev/icons?i=dotnet" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square"/>
-<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+🔹 **ASP.NET Core**  
+🔹 **Entity Framework**  
+🔹 **REST API Development**  
+🔹 **SQL Server**
 
 </p>
 
@@ -89,10 +102,11 @@ Improving skills in:
 
 <p align="center">
 
-⚙️ **Backend Engineering**  
-🔗 **RESTful API Development**  
-🗄 **Database Design & Optimization**  
-🏗 **Clean Architecture & SOLID Principles**
+⚙ Backend Engineering  
+🔗 RESTful API Design  
+🗄 Database Optimization  
+🏗 Clean Architecture  
+🧩 SOLID Principles  
 
 </p>
 
@@ -102,53 +116,57 @@ Improving skills in:
 
 ## 🔗 LinkedIn Database Clone
 
-A **database-driven system** that simulates LinkedIn core functionality.
+A **database system** designed to simulate the **core functionality of LinkedIn**.
 
-### ⚙ Core Modules
+### ⚙ Platform Capabilities
 
-- User Profiles  
-- Connections  
-- Posts  
-- Relationship Management  
+👤 User Profiles  
+🤝 Connections  
+📝 Posts  
+📊 Relationship Data
 
-### 🧩 Technologies
+### 🧠 Technologies
 
 | Area | Tools |
 |-----|------|
 | Database | SQL Server |
-| Modeling | ERD |
+| Modeling | ERD Design |
 | Backend | CRUD Operations |
 | Advanced SQL | Stored Procedures |
-| Workflow | Agile |
+| Development | Agile Workflow |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohanad01bits&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohanad01bits&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanad01bits&layout=compact&theme=tokyonight"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanad01bits&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Collaboration
 
 <p align="center">
 
-<a href="https://linkedin.com/in/mohanad-mahmoud1">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+💬 Always open to:
 
-<a href="mailto:mohaned.mahmoued123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+Backend Projects  
+Open Source Collaboration  
+Software Engineering Opportunities  
 
 </p>
 
+---
+
 <p align="center">
-Open to collaborations, backend projects, and software engineering opportunities.
+
+⭐ If you like my work, feel free to explore my repositories.
+
 </p>
