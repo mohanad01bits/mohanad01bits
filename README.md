@@ -1,81 +1,154 @@
-# Hi, I'm Mohanad Mahmoud 👋
+<!-- HEADER -->
 
-💻 Fullstack .NET Developer  
-📍 Cairo, Egypt  
+<h1 align="center">Hi 👋 I'm Mohanad Mahmoud</h1>
 
----
+<p align="center">
+💻 <b>Fullstack .NET Developer</b><br>
+📍 Cairo, Egypt
+</p>
 
-## 📄 Resume
+<p align="center">
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](Mohanad_Mahmoud_CV.pdf)
+<a href="Mohanad_Mahmoud_CV.pdf">
+<img src="https://img.shields.io/badge/Download%20CV-Portfolio-blueviolet?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
 
----
+<a href="https://linkedin.com/in/mohanad-mahmoud1">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## 🚀 About Me
+<a href="mailto:mohaned.mahmoued123@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I am a Fullstack .NET Developer focused on building **reliable, scalable, and maintainable backend systems**.
-
-I work primarily with **C#, .NET / .NET Core, ASP.NET Core, and SQL Server**, turning complex business requirements into **clean, efficient, production-ready code**.
-
-Currently participating in the **Digital Egypt Pioneers Initiative (DEPI)** where I continue strengthening my skills in **.NET backend development, API design, and modern software architecture**.
-
----
-
-## 🛠 Tech Stack
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</p>
 
 ---
 
-## 🎯 Current Focus
+# 👨‍💻 About Me
 
-- Backend Development with **.NET / ASP.NET Core**
-- **RESTful API** Design
-- **Database Design & SQL Optimization**
-- **Clean Architecture & SOLID Principles**
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Developer Profile
+
+Fullstack **.NET Developer** focused on building:
+
+✔ Reliable backend systems  
+✔ Scalable architectures  
+✔ Clean production-ready APIs  
+
+Main expertise:
+
+**C# • .NET • ASP.NET Core • SQL Server**
+
+</td>
+
+<td width="50%">
+
+### 🎓 Current Program
+
+📚 **Digital Egypt Pioneers Initiative (DEPI)**
+
+Improving skills in:
+
+• Backend Development  
+• API Architecture  
+• Software Design Patterns  
+• Modern .NET Ecosystem
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📂 Featured Project
+# 🛠 Tech Stack
 
-### LinkedIn Database Clone
+<p align="center">
 
-Database-driven platform simulating core LinkedIn functionality.
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github" />
 
-**Key Features**
+</p>
 
-- User Profiles
-- Connections
-- Posts
-- Scalable Database Design
+<p align="center">
 
-**Technologies Used**
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square"/>
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
 
-- SQL Server
-- Database Schema Design
-- ERD Modeling
-- CRUD Operations
-- Stored Procedures
-- Agile Workflow
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 Current Focus
 
-![Mohanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanad01bits&show_icons=true&theme=tokyonight)
+<p align="center">
+
+⚙️ **Backend Engineering**  
+🔗 **RESTful API Development**  
+🗄 **Database Design & Optimization**  
+🏗 **Clean Architecture & SOLID Principles**
+
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 📂 Featured Project
 
-🔗 LinkedIn  
-https://linkedin.com/in/mohanad-mahmoud1  
+## 🔗 LinkedIn Database Clone
 
-📧 Email  
-mohaned.mahmoued123@gmail.com
+A **database-driven system** that simulates LinkedIn core functionality.
+
+### ⚙ Core Modules
+
+- User Profiles  
+- Connections  
+- Posts  
+- Relationship Management  
+
+### 🧩 Technologies
+
+| Area | Tools |
+|-----|------|
+| Database | SQL Server |
+| Modeling | ERD |
+| Backend | CRUD Operations |
+| Advanced SQL | Stored Procedures |
+| Workflow | Agile |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohanad01bits&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanad01bits&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mohanad-mahmoud1">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mohaned.mahmoued123@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+<p align="center">
+Open to collaborations, backend projects, and software engineering opportunities.
+</p>
