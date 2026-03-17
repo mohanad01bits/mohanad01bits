@@ -1,6 +1,5 @@
-<!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oz8xQ6746bq8fjBBu/giphy.gif" width="360" alt="Hacker typing code"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="360" alt="Hacker coding animation"/>
 </p>
 
 <h1 align="center">
