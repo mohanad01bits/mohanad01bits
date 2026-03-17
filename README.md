@@ -1,5 +1,6 @@
+<!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/5Sk6MxVj4t8AAAAC/tech-futuristic.gif" width="360"/>
+  <img src="https://media.tenor.com/3k_Qyo_Pu8wAAAAC/purple-coding.gif" width="360"/>
 </p>
 
 <h1 align="center">
