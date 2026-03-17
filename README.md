@@ -1,5 +1,6 @@
+<!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/3k_Qyo_Pu8wAAAAC/purple-coding.gif" width="360" alt="Purple coding laptop GIF"/>
+  <img src="https://media.giphy.com/media/3oz8xQ6746bq8fjBBu/giphy.gif" width="360" alt="Hacker typing code"/>
 </p>
 
 <h1 align="center">
