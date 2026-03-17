@@ -32,7 +32,6 @@
 
 ---
 
-<!-- WAVE SEPARATOR -->
 
 
 ---
