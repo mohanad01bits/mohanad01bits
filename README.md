@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/af86754b-c5e1-493d-94a8-04bbb6577ee0"
-       width="360"
-       alt="Hacker coding animation"/>
-</p>
+
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Mohanad+Mahmoud;Fullstack+.NET+Developer;Clean+Architecture+Focused;API+Driven+Systems;Database+Engineering">
@@ -67,4 +63,13 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanad01bits&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af86754b-c5e1-493d-94a8-04bbb6577ee0"
+       width="360"
+       alt="Hacker coding animation"/>
 </p>
