@@ -23,7 +23,7 @@
 <!-- CORE FOCUS CARDS -->
 <p align="center">
 
-🟢 <b>API Architecture</b>  🟡 <b>Database Optimization</b>  🔵 <b>Clean Architecture</b>  🟣 <b>SOLID Principles</b>
+  🟢 <b>API Architecture</b>      🟡 <b>Database Optimization</b>      🔵 <b>Clean Architecture</b>      🟣 <b>SOLID Principles</b>
 
 </p>
 
