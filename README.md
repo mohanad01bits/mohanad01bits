@@ -39,15 +39,6 @@
 
 ---
 
-<!-- PAC-MAN CONTRIBUTION GRAPH -->
-<h3 align="center">🟡 Contribution Activity</h3>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mohanad01bits/mohanad01bits/output/pacman-contribution-graph.svg">
-</p>
-
----
-
 <!-- CONTACT INFO VISUAL CARDS -->
 <h3 align="center">📇 Contact Me</h3>
 
