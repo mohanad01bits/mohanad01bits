@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Mohanad+Mahmoud;Fullstack+.NET+Developer;Clean+Architecture+Focused;API+Driven+Systems;Database+Engineering" alt="Typing animation"/>
-</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2cf43c7a-f05d-4022-af0d-a186bb980708" 
+       width="400" 
+       alt="Hacker coding GIF"/>
+</p>
+
 ---
 
 <!-- TECH STACK ORBIT -->
