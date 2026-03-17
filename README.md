@@ -1,6 +1,6 @@
 <!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="360"/>
 </p>
 
 <h1 align="center">
