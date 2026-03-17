@@ -32,10 +32,6 @@
 
 ---
 
-
-
----
-
 <!-- CONTACT INFO VISUAL CARDS -->
 <h3 align="center">📇 Contact Me</h3>
 
