@@ -33,9 +33,7 @@
 ---
 
 <!-- WAVE SEPARATOR -->
-<p align="center">
-<img src="https://user-images.githubusercontent.com/55502224/190846090-1df1d0eb-f3b6-4c07-8400-c7f00d6e9c8f.svg" width="100%">
-</p>
+
 
 ---
 
