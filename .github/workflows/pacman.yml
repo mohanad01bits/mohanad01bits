@@ -2,12 +2,14 @@ name: Generate Pac-Man Contributions
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # runs every 12 hours
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # <-- force Node 24
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
