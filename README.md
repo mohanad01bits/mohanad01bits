@@ -37,7 +37,7 @@
 
 ---
 <!-- CONTACT INFO VISUAL CARDS -->
-<h3 align="center">📇 Contact Me</h3>
+<h3 align="center">📇 More Info / Contact Me</h3>
 
 <p align="center">
 
